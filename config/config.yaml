@@ -8,8 +8,8 @@ port: 7777
 mysql:
   host: 127.0.0.1
   port: 3306
-  user: "root"
-  password: "XXXXXX"
+  user: "fp"
+  password: "LXSGD6yAT6fHJHEw"
   dbname: "fp"
   prefix: "fp_"
   max_open_conn: 200
@@ -19,7 +19,7 @@ mysql:
 redis:
   host: 127.0.0.1
   port: 6379
-  password: "XXXXXX"
+  password: ""
   db: 3
   pool_size: 100
 
